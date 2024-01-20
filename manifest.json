@@ -3,9 +3,12 @@
     "name": "excalidraw package",
     "version": "0.0.1",
     "minTextGeneratorVersion": "0.6.0",
-    "description": "Contains Excalidraw Templates and support for Vision for other templates (Scripts)",
+    "description": "Contains Excalidraw Templates and support for Excalidraw for other templates (Scripts)",
     "author": "Noureddine",
     "tags": "OpenAI,markdown,gpt-4-vision,vision,images",
     "authorUrl": "https://www.buymeacoffee.com/haouarine",
-    "repo": "text-gen/tg-excalidraw"
+    "repo": "text-gen/tg-excalidraw",
+    "core": true,
+    "folderName": "excalidrawPackage",
+    "price": 2
 }
